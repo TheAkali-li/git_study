@@ -1,2 +1,2 @@
 # git_study
-git学习dasdsadsa
+git学习
